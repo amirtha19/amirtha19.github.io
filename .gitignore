@@ -1,0 +1,6 @@
+# txt files 
+*.txt
+
+scss/
+
+.github
